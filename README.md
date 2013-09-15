@@ -1,0 +1,4 @@
+JXBarChartView
+==============
+
+bar chart view 
